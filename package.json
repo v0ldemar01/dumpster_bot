@@ -1,0 +1,55 @@
+{
+  "name": "dumpster_bot",
+  "version": "1.0.0",
+  "description": "Chat bot of the DUMPSTER online store",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://v0ldemar01@bitbucket.org/proofmail/dumpster_bot.git"
+  },
+  "keywords": [
+    "telegraf",
+    "nodejs",
+    "dumpster"
+  ],
+  "engines": {
+    "node": "14.6.0",
+    "npm": "6.14.6"
+  },
+  "author": "Volodymyr Minchenko",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/proofmail/dumpster_bot#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.3",
+    "axios": "^0.20.0",
+    "child_process": "^1.0.2",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "fastify": "^3.8.0",
+    "fastify-telegraf": "^1.0.1",
+    "google-spreadsheet": "^3.0.13",
+    "google-translate-api": "^2.0.3",
+    "moysklad": "^0.8.0",
+    "mysql2": "^2.2.5",
+    "node-fetch": "^2.6.1",
+    "novaposhta": "^1.1.0",
+    "telegraf": "^3.38.0",
+    "telegraf-i18n": "^6.6.0",
+    "telegraf-session-mysql": "^5.1.0",
+    "transliteration": "^2.2.0",
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.2.1"
+  }
+}

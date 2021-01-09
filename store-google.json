@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "store-300512",
+  "private_key_id": "77c3b060d06cc5a31edcc746838857450d3de073",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3kSbW/ZLsdTxD\nWUMfDNXsG75ReOSbWgwhPKTkBchrtOdBY+5aagX7W53EavGD7C9XYwTRoheklAD8\nUCVFi8EHuxn44NZLbpyoC8By3TEQpIOEhuThrmc/6DkUtk8/aUEnf5TGz32uP9zw\n0NvJEHmrUlwVb2WUNwWf7MYrRgfxM2lBpu4FX+hL1O6BG2od/6o3p9CVuRdibTLX\nSJ45V8HLfSSTA58lB4Y8WTO7AIn4+CQF5RxROgLXIJJFXvO/qvPQCzgr9qhV0+IX\nKCMl3kTW7nnfGR1Le5wcmLZvyiXrPmF9pMw01VR4zfXV2Z+HmetPezJER7KRdc8J\n1LxlpLD3AgMBAAECggEAB8hvt83TMj4GQBTDc8g83ws4wTDkVcc2Rx0ly0Uzf4g8\nBdm8Jrk4EmA1YDk95DSvYn/K7y3K3X9+SzRatYgnYbHdIrWQYG0K11UoOQvdI1zW\nTALW0XrDhezNVBjRY1mNxE70eo7G6rcVIbYOm4fHS4GXxeY4jarc4jBNIVM8Ivh9\nwwEJpZD6Do6vf5uB+OfaYdsA2V3CtOygtPzbNpeHvbnBTMHiqkJ0n6+cL3ih+XBR\n5lQu8pxbiYHo50fhuMbF2vzSvSefWEY1B2R2fveSj1/c+jMmQ4UjG4hnXjZZiAZi\n0GXkd7fCrHU38aOw1iH2OaUi4Vi/wG9CKOWsrB4agQKBgQD/EmBCnCGAVfCtHOhF\nSkLVNLFov661QKi5YrEYkWe97qFnz4WrqiFFhwD0kXbfklXcajGEuy36bbM2exSW\nLv+dbOwdoISgoafjvL+vX52OqdOLx2EYcrUpLfW9mKSFUmShxxU5qNJoRT9p5w6B\nSXGV0NUSuM6fYkO05JjGM1QLYwKBgQC4PCl/EkbLQjrqFgq04ZLDaSlCFwdOOuNn\nIE1OzAuvWwAwIBDr+TMCG6ZDLYQgoOULDKVZDGgWnMOdxNArYq5pY123WlZYS/uY\n3Lo2h4lK6RLpudtatk/pSfPHlgGJKVGgIdvG2f6Gl48fsUitzGUbbWMga+/iL0ly\n0nRyWKGaXQKBgQCnmjSEMEFXKaE+rur0dKpbnAci1CkBUl5Likzh3tFzHPUT2Gl1\n9hFstRvsmBSrLWWbsm+dTr0Ue7axishpMrKlh6fSg+ICBpbh7ulpXAOUdYTaqQTk\n4qKlT1zU2xLnw875+m24+HRhLXdQqBGA5HhtP85yQdsLIa9pknfMbHfCDwKBgBU4\nsNr3QvpUxa6DHXaaaSpjKaJ4PpovRFRzrxP9gvcO92WTu/9CdDKw9qTUUFzly5xL\nN5ybRj4cjpfUvNnSgx6WmIvvNvTyw6dm/Xgcgp8DW+9aPj8jsu6/WvpJeCHRhZp5\na/Rq1duxB4ZyCFokqhzPq9RnOnmGUuKMBWfKd8rtAoGBALM22ojZ0RDLie63IjO/\nW3dvONkxYdPozIH/tziru4ttiO4n4uIW4nW8Ib/umDjJyDpK9xRbbBSDeg0IDy1k\nlz62BZsTSqvHug9/Z30AARiAp+t69L3WY0UDSr/b+mS0WJRxvBvQHI5lqhxUSeKb\na6jxjKt8WX4yPe5M8hHXx0vN\n-----END PRIVATE KEY-----\n",
+  "client_email": "petrovich@store-300512.iam.gserviceaccount.com",
+  "client_id": "104398138684753842873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/petrovich%40store-300512.iam.gserviceaccount.com"
+}

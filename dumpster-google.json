@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dumpster-294010",
+  "private_key_id": "61d32efd08a99315fb7cbdd0f3dedb62bedb44d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCqj9pvbKRohs4\npi6DTJ8FnzK7ph479WNJskKExB6I2FC+rp0vrurDQXnq1QAAAUSecH3UdJ3dHmkU\n+7ykzF9R7AbvpRn4oPSHutUMEtDks64ADY262xs9YP65kFn/2PSNF2YuhIVJ9Ya9\nX3shrduV1Bb9y0FgFO9V/a0YMznj71RLOs81aE4+BLejadVuSakm7clfI9JqYKRh\npLQU/op0/YvhBdSCqvmextor/IAkAdGGZc4ZL3UchHvoaCdiHCgCMIGKnBXF3qin\n80FSMsiNd+EaDCV8WXDCp5XgDVnG+ma8fBMku8dnZIHNOLCFBlZERJOrQ0wbawbI\nDuBDqYkBAgMBAAECgf82pdCTgLuGgrmdl5lrJrFlxKFbaHEIaATthWuDFgN0azWP\nsjlST4p8Mf9l21HaroBy8iWA5RQEJStexqTYpr8Donz3/aNi1tyO1fZFI2sdKQvp\n2+Qz1pq5Cme39DwvxNoyWaVH3dAFSTYAJ7PLaqFAWH/z04GQ1Y+y1jonlwnjYKjF\nvyeSkC4/aWJ0noxCbdc2nIaRmEbIXkQ5d9h6GaoJs4CNA6Vm9Ij8mCBExPqy0LhM\nejJUan3fcFV84DSJq/EMOGCTMCHniK+oQgKGHj2TLqSbgA6sTjsMhfUcPdQSPCtj\nmI8nSXGfkJNMdb0TDbZHANmqvDsSXwTp+fZ60YECgYEA8pUyfHHxiRETMMkCvZ4Z\nYZDjtvK6Pn875To9P8UfARZR5nNFkrAQ/0NI4FEa61AJjzP+PgXqkUFp91a73fCv\n/2LKEoBvK4IXnCdMBRCLrTcAGQro32LJABxfA4hn9H+WmLEQISyMuiHKY5G4fZhB\nwMAFXC3zP9RMsow9rvEyrYECgYEAzW6RgKE80ZfP93o9Oc6Ll4hoHjGKxc6hxk9I\nQjhpSe2ikgZOtWN7D4UGhX0w5tffueMNqd1E6fOP/9ztXAjcokoOZjI2Md+rAiMR\njz233TsxPNP93nytzwkQFWoqzdT7JRHLlVs4I6kIXXIdaXybC2QIcJKhlwZ/fYvJ\nK+mTm4ECgYEA4O42we1laRLMGJBKWkgegLk4bIrk5s5TW1mFMXw2I2vuxSBdgoZ/\nPDHHgTezHj44nvA27ovN1KIy/4UM7d4fU07m0AEHE/Css748XvXYjeRR0uaqx3dx\nqQilkUEKI0uq+Co2KoyEcJKkd27HAq4LSg7C6ZYx1x2jgGtJRs2fkAECgYEAop6f\nUcrRYT0i5M4AP41wVTEm8pfXOcTbrSc/lSQgvOP/aEbT8aThWqS8R9mVZ3eF5BmH\nzGqbTfN/j1StFMjzFwk2otGmsw5SyetG0DRUIy3jSTqrYX8i+5w5/im/3pZ1hJ+0\nn/PI2fnJ5GccP0/jUD4MrEh24B3FuHV6d2d8cIECgYB++CQXoqO3dmCyDwnRv8Dc\nDELZjBiNkVMw+7E1drQPAd3ktF1LQxLkdt7T0E8YYfbNl9smJtaC4L2uNCebsK7G\nxxDiDQUPXEhFvjw1NEu8KT/P3UtRK4DwyYFU4GUtoTpyXmfGZSlku8s6NVqzM1oG\nzeJBrvS3U4LtyirXuH+qjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "voldemar@dumpster-294010.iam.gserviceaccount.com",
+  "client_id": "108899265027418426885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voldemar%40dumpster-294010.iam.gserviceaccount.com"
+}
